@@ -27,21 +27,23 @@ Hiddengems is an online thrift homepage that allows users to shop from selected 
 | **Configuration** |
 | <ul><li>Window 10 (Chorme/ Firefox /Edge)</li><li>MacOS Big Sur(Chorme/ Firefox /Edge)</li></ul>|
 | **Dependencies** |
-| <ul><li>Tailwind v3.1.8</li><li>Daisy UI</li></ul> |
+| <ul><li>Tailwind v3.1.8</li><li>Daisy UI</li></ul> 
 
+<br/>
 
 ## Site
 * [New Homepage](https://newhiddengems.misunkim.ca/)
 * [Old Homepage](https://hiddengems.misunkim.ca/)
 
 
-<br>
+<br/>
+
 ## What I've learned
   
 | Subject                                             | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Challenge | <ul><li>Developed an android application for data exchange using fetch method</li><li>Developed an layout using React native nagvigation, React native elemtns and React native paper </li><li>Understanding custom API building process and manage to use for building functionality</li><li>Manage the issue with project board and solve it (tried to various library for building layout but found bugs and change it)</ul> |
-| Improvement | <ul><li>Developed an android application for data exchange using fetch method</li><li>Developed an layout using React native nagvigation, React native elemtns and React native paper </li><li>Understanding custom API building process and manage to use for building functionality</li><li>Manage the issue with project board and solve it (tried to various library for building layout but found bugs and change it)</ul> |
+| Why | <ul><li>Improve readability – becuase of rebuilding the homepage, I considered readability to work with other developers. Tailwind and DaisyUI framework has fixed class name to understand anybody who knows the framework</li><li>Consistent design – Using the framework, I used all component to keep consistent design</li><li>Responsive design – cover all </li></ul> |
+| How | <ul><li>Improve reusability – set custom colors and components, to use reusability</li><li>CSS Framework – Tailwind and DaisyUI. There is a learning curve but it makes faster to clean up code use design, animation and features</li></ul> |
 
 
 
