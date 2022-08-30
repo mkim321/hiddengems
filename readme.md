@@ -21,12 +21,12 @@ Hiddengems is an online thrift homepage that allows users to shop from selected 
 ## Specification
   
 |
-| **Objectives** |
+| Objectives |
 | <ul><li>Building responsive website</li><li>Using css framework to improve reusability</li><li>Working as a team by Agile method
 </li></ul> |
-| **Configuration** |
+| Configuration |
 | <ul><li>Window 10 (Chorme/ Firefox /Edge)</li><li>MacOS Big Sur(Chorme/ Firefox /Edge)</li></ul>|
-| **Dependencies** |
+| Dependencies |
 | <ul><li>Tailwind v3.1.8</li><li>Daisy UI</li></ul> 
 
 <br/>
